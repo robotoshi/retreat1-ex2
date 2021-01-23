@@ -14,4 +14,7 @@ Make sure to include a quick description about your team.
 
 Links to each team member's bio page. Add a link for each team member.
 
+
 [Kaleigh](/member1.md)
+
+[Toshi Taperek](/toshi.md)
